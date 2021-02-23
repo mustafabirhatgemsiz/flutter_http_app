@@ -1,19 +1,192 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 17
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 0
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 17
+    },
+    {
+      "id": 8,
+      "categoryId":1,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 0
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 17
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 0
+    },
+    {
+      "id": 14,
+      "categoryId": 3,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 17
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 53
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "productName": "Ürün Adı",
+      "quantityUnit": "48 - 6 oz jars",
+      "unitPrice": "Ürün Fiyatı",
+      "unitsInStock": 0
     }
   ],
-  "comments": [
+  "categories": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "categoryName": "Kategori Adı",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "confections"
+    },
+    {
+      "id": 4,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "dairy-products"
+    },
+    {
+      "id": 5,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "grains-cereals"
+    },
+    {
+      "id": 6,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 7,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 8,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "confections"
+    },
+    {
+      "id": 9,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "dairy-products"
+    },
+    {
+      "id": 10,
+      "categoryName": "Kategori Adı",
+      "seoUrl": "grains-cereals"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
