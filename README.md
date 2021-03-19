@@ -1,17 +1,9 @@
 # flutter_http_app
 
-A new Flutter project.
+-Screenshots-
 
-## Getting Started
+![Ekran görüntüsü 2021-03-19 164749](https://user-images.githubusercontent.com/77343458/111790192-01867c80-88d3-11eb-81e6-599f0b69812f.png)
 
-This project is a starting point for a Flutter application.
+![Ekran görüntüsü 2021-03-19 164830](https://user-images.githubusercontent.com/77343458/111790195-021f1300-88d3-11eb-9ec9-768cf41716ee.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_http_app
